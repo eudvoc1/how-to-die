@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":true,"name":"开场","order":1,"parentId":0,"scrollX":451,"scrollY":312.5},
+{"id":2,"expanded":true,"name":"场景一：墓地","order":9,"parentId":5,"scrollX":451,"scrollY":312.5},
+{"id":3,"expanded":true,"name":"场景五：人生花园","order":10,"parentId":0,"scrollX":442.5,"scrollY":311.5},
+{"id":4,"expanded":true,"name":"场景五：漆黑","order":11,"parentId":0,"scrollX":451,"scrollY":311.5},
+{"id":5,"expanded":true,"name":"场景五：钟表屋","order":5,"parentId":0,"scrollX":893,"scrollY":320.5},
+{"id":6,"expanded":true,"name":"场景四：蟹老板办公室","order":2,"parentId":0,"scrollX":459,"scrollY":311.5},
+{"id":7,"expanded":false,"name":"场景二：童趣房间","order":3,"parentId":6,"scrollX":442.5,"scrollY":312.5},
+{"id":8,"expanded":false,"name":"场景三：教室","order":4,"parentId":6,"scrollX":442.5,"scrollY":455.5},
+{"id":9,"expanded":false,"name":"蟹老板办公室回溯","order":8,"parentId":5,"scrollX":459,"scrollY":311.5},
+{"id":10,"expanded":false,"name":"教室回溯","order":6,"parentId":5,"scrollX":451,"scrollY":312.5},
+{"id":11,"expanded":false,"name":"童趣房间回溯","order":7,"parentId":5,"scrollX":451,"scrollY":312.5}
+]
